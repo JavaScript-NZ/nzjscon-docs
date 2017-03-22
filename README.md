@@ -5,16 +5,109 @@ A guide.
 This work is licensed under a [Creative Commons Attribution 4.0 International
 License](http://creativecommons.org/licenses/by/4.0/).
 
+## Contents
+
+* [A brief history](#a-brief-history)
+* [Committee oversight](#committee-oversight)
+* [Access to resources from the first nz.js(con);](#access-to-resources-from-the-first-nzjscon)
+* [Funding and the budget](#funding-and-the-budget)
+  + [Breaking even](#breaking-even)
+  + [GST requirements](#gst-requirements)
+  + [Paying for things](#paying-for-things)
+  + [Invoicing](#invoicing)
+  + [Keep per attendee costs below ticket costs](#keep-per-attendee-costs-below-ticket-costs)
+* [Format](#format)
+  + [Core aspects](#core-aspects)
+    - [Two tracks](#two-tracks)
+    - [Two days, during the week](#two-days-during-the-week)
+    - [Some general programming talks as well as JS specific ones](#some-general-programming-talks-as-well-as-js-specific-ones)
+    - [Low cost tickets, even cheaper student / unwaged tickets](#low-cost-tickets-even-cheaper-student--unwaged-tickets)
+    - [Code of Conduct](#code-of-conduct)
+    - [Videos of talks released promptly](#videos-of-talks-released-promptly)
+  + [Less critical aspects](#less-critical-aspects)
+    - [Find your own lunch](#find-your-own-lunch)
+    - [No travel fund for speakers](#no-travel-fund-for-speakers)
+    - [Cash bar at social event](#cash-bar-at-social-event)
+  + [Extensions to the format](#extensions-to-the-format)
+    - [Dedicated extra trainings and workshops day](#dedicated-extra-trainings-and-workshops-day)
+    - [Lightning talks](#lightning-talks)
+    - [More variety of talk lengths generally](#more-variety-of-talk-lengths-generally)
+    - [Childcare](#childcare)
+    - [Live streaming of talks - with captions](#live-streaming-of-talks---with-captions)
+    - [Conference dinner](#conference-dinner)
+* [Design](#design)
+  + [The conference logo](#the-conference-logo)
+  + [T-shirt and sticker design](#t-shirt-and-sticker-design)
+* [Diversity and accessibility](#diversity-and-accessibility)
+* [The website](#the-website)
+* [Communications methods](#communications-methods)
+* [Team management](#team-management)
+* [Roadmap](#roadmap)
+  + [1 year to 6 months remaining](#1-year-to-6-months-remaining)
+    - [Propose a budget](#propose-a-budget)
+    - [Securing sponsors](#securing-sponsors)
+    - [Finding a venue](#finding-a-venue)
+    - [Picking the dates](#picking-the-dates)
+    - [Publicity](#publicity)
+  + [6 months to 3 months remaining](#6-months-to-3-months-remaining)
+    - [Approach vendors for key services](#approach-vendors-for-key-services)
+      * [AV](#av)
+      * [Video Recording](#video-recording)
+      * [Catering](#catering)
+      * [Designer](#designer)
+    - [Launch a call for papers](#launch-a-call-for-papers)
+    - [Find keynote speakers](#find-keynote-speakers)
+  + [3 months to 1 month remaining](#3-months-to-1-month-remaining)
+    - [Start selling tickets](#start-selling-tickets)
+    - [Diversity and financial aid fund](#diversity-and-financial-aid-fund)
+    - [Paper review](#paper-review)
+    - [Talk schedule](#talk-schedule)
+    - [Speaker internet access](#speaker-internet-access)
+    - [Speaker communications](#speaker-communications)
+    - [Print stickers](#print-stickers)
+    - [Ensure website contains useful information](#ensure-website-contains-useful-information)
+    - [Social event](#social-event)
+    - [Line up a t-shirt printer](#line-up-a-t-shirt-printer)
+    - [Get lanyards for the namebadges](#get-lanyards-for-the-namebadges)
+  + [1 month remaining](#1-month-remaining)
+    - [Design namebadges/programmes and line up a printer](#design-namebadgesprogrammes-and-line-up-a-printer)
+    - [Update CoC reporting proceedures](#update-coc-reporting-proceedures)
+    - [Liase with committee about awards](#liase-with-committee-about-awards)
+    - [Get t-shirts and bags printed](#get-t-shirts-and-bags-printed)
+    - [Call for volunteers](#call-for-volunteers)
+    - [Final confirmations with suppliers](#final-confirmations-with-suppliers)
+  + [The week before](#the-week-before)
+    - [Don't panic](#dont-panic)
+    - [Mailchimp attendees final details](#mailchimp-attendees-final-details)
+    - [Print nametags (plus blanks)](#print-nametags-plus-blanks)
+    - [Bag and tag](#bag-and-tag)
+    - [Coffee vouchers](#coffee-vouchers)
+    - [Print a bunch of things](#print-a-bunch-of-things)
+    - [Prepare slides](#prepare-slides)
+    - [Airport pickups for keynotes](#airport-pickups-for-keynotes)
+    - [Make sure all the organisers have ways of contacting each other](#make-sure-all-the-organisers-have-ways-of-contacting-each-other)
+    - [Ensure there is stationery available](#ensure-there-is-stationery-available)
+  + [During the conference](#during-the-conference)
+    - [Organiser jobs that need covering](#organiser-jobs-that-need-covering)
+    - [The registration desk](#the-registration-desk)
+    - [Code of conduct reporting](#code-of-conduct-reporting)
+  + [Next few days after the conference](#next-few-days-after-the-conference)
+    - [Thank your sponsors](#thank-your-sponsors)
+    - [Publicise videos](#publicise-videos)
+    - [Send out a survey](#send-out-a-survey)
+    - [Pay all the things](#pay-all-the-things)
+
 ## A brief history
 
-Jen, the director of the first nz.js(con); originally proposed the conference
-during an AGM for the JavaScript society which she followed up with [a proposal
-on the issues list](https://github.com/JavaScript-NZ/Society-Meetings/issues/35)
-back in November 2015. Following that a Loomio group was formed to tackle some
-of the key descisions, most notably which city, which venue, and when. After
-that Jen took those key decisions and mixed them together with her experience
-from running [Kiwi PyCon 2014](https://nzpug.org/kiwipycon/wellington-2014/) in
-order to make the first __nz.js(con);__ happen. As you can see that very first
+Jen, the director of the first __nz.js(con);__ originally proposed the
+conference during an AGM for the JavaScript society which she followed up with
+[a proposal on the issues
+list](https://github.com/JavaScript-NZ/Society-Meetings/issues/35) back in
+November 2015. Following that a Loomio group was formed to tackle some of the
+key descisions, most notably which city, which venue, and when. After that Jen
+took those key decisions and mixed them together with her experience from
+running [Kiwi PyCon 2014](https://nzpug.org/kiwipycon/wellington-2014/) in order
+to make the first __nz.js(con);__ happen. As you can see that very first
 proposal had that key idea of rotating the conference around between major
 cities, and that, hopefully, is where you come in.
 
