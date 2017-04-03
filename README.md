@@ -109,7 +109,8 @@ took those key decisions and mixed them together with her experience from
 running [Kiwi PyCon 2014](https://nzpug.org/kiwipycon/wellington-2014/) in order
 to make the first __nz.js(con);__ happen. As you can see that very first
 proposal had that key idea of rotating the conference around between major
-cities, and that, hopefully, is where you come in.
+cities, and that, hopefully, is where 
+[you come in](https://github.com/JavaScript-NZ/Society-Meetings/issues/55#issuecomment-291037226).
 
 ## Committee oversight
 
